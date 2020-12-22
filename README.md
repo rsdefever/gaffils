@@ -1,7 +1,7 @@
 GAFFILS
 ========
 
-A [foyer](github.com/mosdef-hub/foyer) plugin for GAFF-based ionic liquid force fields.
+A [foyer](github.com/mosdef-hub/foyer) plugin for a GAFF-based ionic liquid force field. Only the bonded and Lennard-Jones parameters are provided here. Partial charges should be determined via RESP or AM1-BCC as perscribed by GAFF.
 
 
 WARNING
