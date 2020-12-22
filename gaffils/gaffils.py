@@ -9,6 +9,6 @@ def get_root_path():
 
 def load_GAFFILS():
     from foyer import Forcefield
-    path = pathlib.Path(str(get_root_path()) + 'xml/gaffils.xml')
+    path = pathlib.Path(str(get_root_path()) + '/xml/gaffils.xml')
     return Forcefield(path)
 
